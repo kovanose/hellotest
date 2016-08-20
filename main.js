@@ -112,7 +112,6 @@ function resetHighlight(e) {
 
 
 
-// ... our listeners
 
 
 function zoomToFeature(e) {
