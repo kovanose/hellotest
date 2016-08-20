@@ -24,16 +24,7 @@
     margin-right: 8px;
     opacity: 0.7;
 }
- /*#logoContainer {
-  position: absolute;
  
-  top: 0;
-  left: 100px;
-  background-color: white;
-
-  width: 135px;
-  height: 45px;
-}*/
 #logoContainer {
    position: absolute;
     top: 500px;
