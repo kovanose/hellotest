@@ -6,8 +6,8 @@
       "_id": 1,
       "iso2": "hs",
       "iso3": "has",
-      "lat": 40.858154296875,
-      "long": 36.56260003738545,
+      "lat": 36.56260003738545
+      "long": 40.858154296875,
       "flag": "https://corona.lmao.ninja/assets/img/flags/af.png"
    },
    "cases": 1463,
