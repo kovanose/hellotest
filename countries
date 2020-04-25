@@ -30,8 +30,8 @@
       "_id": 2,
       "iso2": "ra",
       "iso3": "raq",
-      "lat": "38.968505859375",
-      "long": "36.10237644873644",
+      "lat": "36.10237644873644",
+      "long": "38.968505859375",
       "flag": "https://corona.lmao.ninja/assets/img/flags/al.png"
    },
    "cases": 678,
