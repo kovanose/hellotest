@@ -97,7 +97,7 @@
 },
  {
    "updated": 1587804438404,
-   "country": "Dir Alzor",
+   "country": "DirAlzor",
    "countryInfo": {
       "_id": 5,
       "iso2": "di",
@@ -145,7 +145,7 @@
 },
  {
    "updated": 1587804438404,
-   "country": "Rif dimashq",
+   "country": "Rifdimashq",
    "countryInfo": {
       "_id": 7,
       "iso2": "ri",
