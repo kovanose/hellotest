@@ -334,5 +334,30 @@
    "tests": 0,
    "testsPerOneMillion": "",
    "continent": "Asia"
+},{
+   "updated": 1587804438404,
+   "country": "Uncatograized",
+   "countryInfo": {
+      "_id": 15,
+      "iso2": "qu",
+      "iso3": "qun",
+      "long": 35.57373046875,
+      "lat": 35.29943548054545,
+      "flag": "https://corona.lmao.ninja/assets/img/flags/al.png"
+   },
+   "cases": 678,
+   "todayCases": 3,
+   "deaths": 1,
+   "todayDeaths": 0,
+   "recovered": 1,
+   "active": 323,
+   "critical": 4,
+   "casesPerOneMillion": 0,
+   "deathsPerOneMillion": 0,
+   "tests": 0,
+   "testsPerOneMillion": "",
+   "continent": "Asia"
 }
 ]
+
+          
