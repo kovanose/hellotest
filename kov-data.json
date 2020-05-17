@@ -1,0 +1,242 @@
+ [
+        {
+            "date": "2020-05-01",
+            "note": "this is a example of note",
+            "clicks": 1.0,
+            "impressions": 6.0,
+            "ctr": 0.16666666666666666,
+            "position": 51.0
+        },
+        {
+            "date": "2020-05-02",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 3.0,
+            "ctr": 0.3333333333333333,
+            "position": 43.333333333333336
+        },
+        {
+            "date": "2020-05-03",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 3.0,
+            "ctr": 0.3333333333333333,
+            "position": 40.333333333333336
+        },
+        {
+            "date": "2020-05-04",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 16.0,
+            "ctr": 0.0625,
+            "position": 86.75
+        },
+        {
+            "date": "2020-05-05",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 4.0,
+            "ctr": 0.25,
+            "position": 24.0
+        },
+        {
+            "date": "2020-05-06",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 21.0,
+            "ctr": 0.047619047619047616,
+            "position": 22.238095238095237
+        },
+        {
+            "date": "2020-05-07",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 24.0,
+            "ctr": 0.041666666666666664,
+            "position": 9.791666666666666
+        },
+        {
+            "date": "2020-05-08",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 151.0,
+            "ctr": 0.006622516556291391,
+            "position": 14.152317880794701
+        },
+        {
+            "date": "2020-05-09",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 1.0,
+            "ctr": 1.0,
+            "position": 38.0
+        },
+        {
+            "date": "2020-05-10",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 10.0,
+            "ctr": 0.1,
+            "position": 69.9
+        },
+        {
+            "date": "2020-05-11",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 4.0,
+            "ctr": 0.25,
+            "position": 32.75
+        },
+        {
+            "date": "2020-05-12",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 15.0,
+            "ctr": 0.06666666666666667,
+            "position": 21.666666666666668
+        },
+        {
+            "date": "2020-05-13",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 134.0,
+            "ctr": 0.007462686567164179,
+            "position": 40.06716417910448
+        },
+        {
+            "date": "2020-05-14",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 252.0,
+            "ctr": 0.003968253968253968,
+            "position": 53.28968253968254
+        },
+        {
+            "date": "2020-05-15",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 36.0,
+            "ctr": 0.027777777777777776,
+            "position": 12.166666666666666
+        },
+        {
+            "date": "2020-05-16",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 201.0,
+            "ctr": 0.004975124378109453,
+            "position": 64.38308457711443
+        },
+        {
+            "date": "2020-05-17",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 10.0,
+            "ctr": 0.1,
+            "position": 53.5
+        },
+        {
+            "date": "2020-05-18",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 3.0,
+            "ctr": 0.3333333333333333,
+            "position": 16.333333333333336
+        },
+        {
+            "date": "2020-05-19",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 7.0,
+            "ctr": 0.14285714285714285,
+            "position": 8.571428571428571
+        },
+        {
+            "date": "2020-05-20",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 11.0,
+            "ctr": 0.09090909090909091,
+            "position": 18.0
+        },
+        {
+            "date": "2020-05-21",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 883.0,
+            "ctr": 0.0011325028312570782,
+            "position": 38.45526613816534
+        },
+        {
+            "date": "2020-05-22",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 3.0,
+            "ctr": 0.3333333333333333,
+            "position": 97.0
+        },
+        {
+            "date": "2020-05-23",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 5.0,
+            "ctr": 0.2,
+            "position": 42.6
+        },
+        {
+            "date": "2020-05-24",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 55.0,
+            "ctr": 0.01818181818181818,
+            "position": 43.236363636363635
+        },
+        {
+            "date": "2020-05-25",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 8.0,
+            "ctr": 0.125,
+            "position": 29.375
+        },
+        {
+            "date": "2020-05-26",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 23.0,
+            "ctr": 0.043478260869565216,
+            "position": 9.565217391304348
+        },
+        {
+            "date": "2020-05-27",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 48.0,
+            "ctr": 0.020833333333333332,
+            "position": 93.04166666666667
+        },
+        {
+            "date": "2020-05-28",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 9.0,
+            "ctr": 0.1111111111111111,
+            "position": 64.11111111111111
+        },
+        {
+            "date": "2020-05-29",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 2.0,
+            "ctr": 0.5,
+            "position": 32.5
+        },
+        {
+            "date": "2020-05-30",
+            "note": "",
+            "clicks": 1.0,
+            "impressions": 9.0,
+            "ctr": 0.1111111111111111,
+            "position": 27.77777777777778
+        }
+    ]
